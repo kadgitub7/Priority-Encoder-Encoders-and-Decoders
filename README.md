@@ -41,6 +41,8 @@ For example:
 
 This demonstrates how the encoder minimizes the number of lines required to communicate which input is active.
 
+![Encoder](imageAssets/Encoder.png)
+
 ---
 
 ## What is a Decoder?
@@ -64,6 +66,8 @@ Each binary input value selects exactly one output line.
 | 11    | D3            |
 
 Because of this reverse relationship, encoders and decoders are often introduced together.
+
+![Encoder->Decoder](imageAssets/Decoder.png)
 
 ---
 
