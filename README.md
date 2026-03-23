@@ -67,7 +67,7 @@ Each binary input value selects exactly one output line.
 
 Because of this reverse relationship, encoders and decoders are often introduced together.
 
-![Encoder->Decoder](imageAssets/Decoder.png)
+![Encoder->Decoder](imageAssets/Encoder-Decoder.png)
 
 ---
 
