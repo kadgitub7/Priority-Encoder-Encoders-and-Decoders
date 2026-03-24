@@ -4,7 +4,7 @@ module priorityEncoder_tb();
     reg I0,I1,I2,I3;
     wire Y0,Y1;
     
-    priotityEncoder uut(I0,I1,I2,I3,Y0,Y1);
+    priorityEncoder uut(I0,I1,I2,I3,Y0,Y1);
     integer i;
     initial begin
         for(i=0;i<16;i=i+1)begin
